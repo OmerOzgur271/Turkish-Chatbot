@@ -1,1 +1,1 @@
-# Turkce-Chatbot
+# Turkish-Chatbot
